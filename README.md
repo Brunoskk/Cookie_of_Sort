@@ -1,3 +1,9 @@
+##Remeber
+
+I must remember when downloading the project before everything runs:
+[$ yarn install or $ npm install]
+to download the necessary dependencies to run the project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
