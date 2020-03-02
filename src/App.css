@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15%;
+}
+
+.App img.img{
+
+width: 200px;
+height: 200px;
+
+}

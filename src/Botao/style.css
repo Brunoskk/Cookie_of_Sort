@@ -1,0 +1,9 @@
+.Botao{
+    height: 30px;
+    border-radius: 9px;
+    color: black;
+    background-color: white;
+    opacity: 0.8;
+    border-bottom-left-radius: 10px;
+    outline-style: none;
+}
